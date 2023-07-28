@@ -6,14 +6,16 @@ GUI R
 DELAY 1000
 STRING Powershell.exe
 ENTER
-DELAY 1000
+DELAY 2000
 STRING Function Set-Speaker($Volume){$wshShell = new-object -com wscript.shell;1..50 | % {$wshShell.SendKeys([char]174)};1..$Volume | % {$wshShell.SendKeys([char]175)}}
 ENTER
 DELAY 2000
 STRING Set-Speaker -Volume 50
 ENTER 
 DELAY 2000
-STRING start YOUR YOUTUBE LINK WITH THE HTTPS://
+STRING start https://www.youtube.com/watch?v=mEJ_jxFJU_0
 ENTER
 DELAY 4000
+ENTER
+DELAY 6000
 GUI L
