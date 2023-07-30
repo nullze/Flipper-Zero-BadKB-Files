@@ -1,0 +1,181 @@
+REM Title: Play Mission Impossible
+REM Author: Jake A. (Cylect.io)
+REM Target:  Tested on Windows 7/8/10 
+REM Version: 1.0
+REM Category: Prank
+REM Launches Powershell and plays Mission Impossible Theme with PC Buzzer
+GUI r
+DELAY 500
+STRING powershell
+ENTER
+DELAY 500
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(1047,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(699,150);
+ENTER
+STRING [console]::beep(740,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(1047,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(699,150);
+ENTER
+STRING [console]::beep(740,150);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(587,1200);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(554,1200);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(523,1200);
+ENTER
+STRING [console]::beep(466,150);
+ENTER
+STRING [console]::beep(523,150);
+ENTER
+STRING [console]::beep(523,1200 );
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(1047,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(699,150);
+ENTER
+STRING [console]::beep(740,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(1047,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(699,150);
+ENTER
+STRING [console]::beep(740,150);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(587,1200);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(554,1200);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(523,1200);
+ENTER
+STRING [console]::beep(466,150);
+ENTER
+STRING [console]::beep(523,150);
+ENTER
+STRING [console]::beep(523,1200 );
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(1047,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(699,150);
+ENTER
+STRING [console]::beep(740,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(1047,150);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(699,150);
+ENTER
+STRING [console]::beep(740,150);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(587,1200);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(554,1200);
+ENTER
+STRING [console]::beep(932,150);
+ENTER
+STRING [console]::beep(784,150);
+ENTER
+STRING [console]::beep(523,1200);
+ENTER
+STRING [console]::beep(466,150);
+ENTER
+STRING [console]::beep(523,150);
+ENTER
+STRING [console]::beep(523,150 );
+ENTER
+STRING exit
+ENTER
