@@ -13,55 +13,55 @@ STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(1047,150);
-ENTER
-STRING [console]::beep(784,500);
-ENTER
-STRING [console]::beep(784,500);
-ENTER
-STRING [console]::beep(699,150);
-ENTER
-STRING [console]::beep(740,150);
+STRING [console]::beep(1047,300);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(699,300);
 ENTER
-STRING [console]::beep(1047,150);
+STRING [console]::beep(740,300);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,300);
+ENTER
+STRING [console]::beep(1047,300);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(699,150);
+STRING [console]::beep(699,300);
 ENTER
-STRING [console]::beep(740,150);
+STRING [console]::beep(740,300);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(587,1200);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(554,1200);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(523,1200);
 ENTER
-STRING [console]::beep(466,150);
+STRING [console]::beep(466,300);
 ENTER
-STRING [console]::beep(523,150);
+STRING [console]::beep(523,300);
 ENTER
 STRING [console]::beep(523,1200 );
 ENTER
@@ -69,55 +69,55 @@ STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(1047,150);
-ENTER
-STRING [console]::beep(784,500);
-ENTER
-STRING [console]::beep(784,500);
-ENTER
-STRING [console]::beep(699,150);
-ENTER
-STRING [console]::beep(740,150);
+STRING [console]::beep(1047,300);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(699,300);
 ENTER
-STRING [console]::beep(1047,150);
+STRING [console]::beep(740,300);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,300);
+ENTER
+STRING [console]::beep(1047,300);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(699,150);
+STRING [console]::beep(699,300);
 ENTER
-STRING [console]::beep(740,150);
+STRING [console]::beep(740,300);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(587,1200);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(554,1200);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(523,1200);
 ENTER
-STRING [console]::beep(466,150);
+STRING [console]::beep(466,300);
 ENTER
-STRING [console]::beep(523,150);
+STRING [console]::beep(523,300);
 ENTER
 STRING [console]::beep(523,1200 );
 ENTER
@@ -125,57 +125,57 @@ STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(1047,150);
-ENTER
-STRING [console]::beep(784,500);
-ENTER
-STRING [console]::beep(784,500);
-ENTER
-STRING [console]::beep(699,150);
-ENTER
-STRING [console]::beep(740,150);
+STRING [console]::beep(1047,300);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(699,300);
 ENTER
-STRING [console]::beep(1047,150);
+STRING [console]::beep(740,300);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(784,500);
+ENTER
+STRING [console]::beep(932,300);
+ENTER
+STRING [console]::beep(1047,300);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
 STRING [console]::beep(784,500);
 ENTER
-STRING [console]::beep(699,150);
+STRING [console]::beep(699,300);
 ENTER
-STRING [console]::beep(740,150);
+STRING [console]::beep(740,300);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(587,1200);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(554,1200);
 ENTER
-STRING [console]::beep(932,150);
+STRING [console]::beep(932,300);
 ENTER
-STRING [console]::beep(784,150);
+STRING [console]::beep(784,300);
 ENTER
 STRING [console]::beep(523,1200);
 ENTER
-STRING [console]::beep(466,150);
+STRING [console]::beep(466,300);
 ENTER
-STRING [console]::beep(523,150);
+STRING [console]::beep(523,300);
 ENTER
-STRING [console]::beep(523,150 );
+STRING [console]::beep(523,1200 );
 ENTER
 STRING exit
 ENTER
